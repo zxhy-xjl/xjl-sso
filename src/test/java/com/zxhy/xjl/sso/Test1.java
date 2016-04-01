@@ -1,5 +1,5 @@
 package com.zxhy.xjl.sso;
 
-public class Test {
+public class Test1 {
 
 }
